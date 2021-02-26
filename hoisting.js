@@ -15,4 +15,3 @@ function crazy() {
 function sayMyName() {
     console.log("Kristin");
 }
-
